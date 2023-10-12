@@ -1,6 +1,12 @@
 # SteamDeckCAC
 DOD CAC Reader on SteamOS (Arch)
 [[Arch]] [[IrregularGithub]]
+
+You can execute this automatically using the included BASH script, just remember to chmod:
+
+`chmod +x steamdeck_setup_cac.sh`
+
+
 **Prerequisites:**
 
 - Internet connection on your Steam Deck.
